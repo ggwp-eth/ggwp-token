@@ -1,7 +1,3 @@
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # $GGWP | GoodGameWellPlayed
 
 👾 Like Mario on a mission to reunite with Peach, #GGWP brings together old-school gaming and crypto to build A NEW LEGACY!<br />
