@@ -1,2 +1,2 @@
-# ggwp-token
-Codebase and Security Audits | GoodGameWellPlayed - $GGWP ERC-20 Token
+# GoodGameWellPlayed
+👾 Like Mario on a mission to reunite with Peach, #GGWP brings together old-school gaming and crypto to build A NEW LEGACY! 🚀
